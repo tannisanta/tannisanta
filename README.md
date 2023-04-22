@@ -18,12 +18,13 @@ Technical communication standards and practices
 
   Style guides: Microsoft Style Guide, Apple Style Guide.
   Principles and approaches: Minimalistic writing, topic-based authoring, structured documentation, and DDLC.
-  Deliverables: Quick reference materials, tutorials, presentations, administrator guides, user guides, and operations documentation (system information,   diagrams, and troubleshooting).
+  Deliverables: Quick reference materials, tutorials, presentations, administrator guides, user guides, and 
+                operations documentation (system information,   diagrams, and troubleshooting).
 
 Technical communication tools
 
-  Word processing tools: MS Office Suite 2010/2013, LibreOffice, Google Docs. Graphic, and diagramming tools: TechSmith Snagit 10/11, diagrams.net,     
-  Lucidchart, PlantUML.
+  Word processing tools: MS Office Suite 2010/2013, LibreOffice, Google Docs. 
+  Graphic, and diagramming tools: TechSmith Snagit 10/11, diagrams.net, Lucidchart, PlantUML.
   Infographics tools: Canva, VistaCreate.
   Video capturing tools: Loom, Camtasia.
   API tools: Postman, Readme, Spotlight, Archbee, OpenAPI.
