@@ -34,6 +34,6 @@ Technical communication tools
 General
 
   Operating systems: MS Windows 7/10, Ubuntu Linux, macOS.
-  Source control tools: TortoiseSVN.
+  Source control tools: TortoiseSVN, Git.
   Team collaboration software: Confluence, MS SharePoint.
 ```
