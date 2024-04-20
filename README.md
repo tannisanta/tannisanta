@@ -1,6 +1,7 @@
 ### Hi there :sunny:
 
-My name is Tania and I am a technical writer <img height="40" src="https://user-images.githubusercontent.com/112710487/233798019-fd088341-6628-4b55-92ca-c7f183f6fbcc.png">
+My name is Tania and I am a Technical Writer <img height="40" src="https://user-images.githubusercontent.com/112710487/233798019-fd088341-6628-4b55-92ca-c7f183f6fbcc.png">
+I used to be a teacher of English, and then switched to the IT sphere and became a Head of Customer Care. Eventually, I recognized my passion for software, technology, and helping people. Therefore, I decided to pursue growth as a Technical Writer. I am a lifelong learner, and learning about something new is what I like doing for fun - especially if it helps me grow professionally or become a better human being.
 
 📚 **My interests:** I like reading, going for long walks :paw_prints:, watercolor painting. And I love my fam and our time together, coffee, taking pictures, nature, meeting people, and traveling ✈️ <br>
 👩🏾‍💻 **Pronoun:** She/Her<br>
@@ -9,25 +10,26 @@ My name is Tania and I am a technical writer <img height="40" src="https://user-
 
 ___
 
-💡 **Technical writing:** I work for SaaS company where I manage the internal knowledge base and enjoy technical content creation process. I am also a lover of learning, so I'm currently teaching myself Git and API documentation, and exploring AI tools.<br>
+💡 **Technical writing:** I work for a SaaS company where I manage the internal knowledge base and enjoy the technical content creation process. I am also a lover of learning, so I'm currently teaching myself Git and API documentation, and exploring AI tools.<br>
 
 **Technical skills:**
 
 Technical communication standards and practices
 
-  * Style guides: Microsoft Style Guide, Apple Style Guide.
+  * Style guides: Microsoft Style Guide, Apple Style Guide, Google Developer Guide.
   * Principles and approaches: Minimalistic writing, topic-based authoring, structured documentation, and DDLC.
-  * Deliverables: Quick reference materials, tutorials, presentations, administrator guides, user guides, and operations documentation (system information,   diagrams, and troubleshooting).
+  * Deliverables: Quick reference materials, presentations, administrator guides, user guides, operations documentation (system information, diagrams, and troubleshooting), onboarding guides, API documents, and more.
 
 Technical communication tools
 
   * Word processing tools: MS Office Suite 2010/2013, LibreOffice, Google Docs. 
-  * Graphic, and diagramming tools: TechSmith Snagit 10/11, diagrams.net, Lucidchart, PlantUML.
+  * Graphic, and diagramming tools: TechSmith Snagit 10/11, diagrams.net, Lucidchart, PlantUML, Visio.
   * Infographics tools: Canva, VistaCreate.
   * Video capturing tools: Loom, Camtasia.
-  * API tools: Postman, Readme, Spotlight, Archbee, OpenAPI.
+  * API tools: Postman, Readme, Spotlight, Archbee, OpenAPI, Readocly.
   * Task-tracking tools: JIRA, Trello.
   * Communication tools: Slack, Google Meet, Zoom, MS Teams.
+  * Other documentation tools: Confluence, Hugo.
 
 General
 
