@@ -5,7 +5,7 @@ I used to be a teacher of English, and then switched to the IT sphere and became
 
 📚 **My interests:** I like reading, going for long walks :paw_prints:, watercolor painting. And I love my fam and our time together, coffee, taking pictures, nature, meeting people, and traveling ✈️ <br>
 👩🏾‍💻 **Pronoun:** She/Her<br>
-📫 **How to reach me:** Email me at tetiana.tsakun@gmail.com, or contact me on [LinkedIn](https://www.linkedin.com/in/tania-tsakun-704a47176/)<br>
+📫 **How to reach me:** Email me at tania.tsakun@gmail.com, or contact me on [LinkedIn](https://www.linkedin.com/in/tetiana-tsakun/)<br>
 ⚡ **Fun fact:** We have a corgi and two cats, and they always travel with us. <img height="30" src="https://user-images.githubusercontent.com/112710487/233803159-f6a9ee74-03aa-4cbf-bbba-e0e6b45e35a4.png"><img height="25" src="https://user-images.githubusercontent.com/112710487/233803263-34a4e46f-09a9-4ebb-b7fa-2a9a46100592.png"><img height="30" src="https://user-images.githubusercontent.com/112710487/233803419-4a2668a9-7e16-4f3e-8818-40701b0d855e.png">
 
 ___
