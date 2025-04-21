@@ -10,7 +10,7 @@ I used to be a teacher of English, and then switched to the IT sphere and became
 
 ___
 
-💡 **Technical writing:** I work for a Fintech company where I manage the internal knowledge base and enjoy the public technical content creation process. I contribute to public guides and API references. I am also a lover of learning, so I'm currently teaching myself Git and API documentation, and exploring AI tools.<br>
+💡 **Technical writing:** I work for a Fintech company where I manage the internal knowledge base and enjoy the public technical content creation process. I contribute to public guides and API references. I am also a lover of learning, so I'm currently teaching myself more about documentation, APIs, UX writing, and exploring AI tools.<br>
 
 **Technical skills:**
 
